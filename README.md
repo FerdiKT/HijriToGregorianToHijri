@@ -1,6 +1,10 @@
 # HijriToGregorianToHijri
 Hijri to Gregorian and Gregorian to hijri convert with swift
 
+Locales: https://gist.github.com/jacobbubu/1836273
+
+Stackoverflow: http://stackoverflow.com/questions/32893323/convert-gregorian-date-to-hijri-date
+
 ```swift
 let dateFormatter = NSDateFormatter()
 
