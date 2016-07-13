@@ -1,4 +1,4 @@
-# HijriToGregorianToHijri
+# Hijri To Gregorian To Hijri
 Hijri to Gregorian and Gregorian to hijri convert with swift
 
 Locales: https://gist.github.com/jacobbubu/1836273
